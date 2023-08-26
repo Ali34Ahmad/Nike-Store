@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DatePickerTheme" parent="">
+        <item name="android:colorAccent">@color/black</item> <!-- this will change the color of the date picker dialog to black -->
+    </style>
+</resources>

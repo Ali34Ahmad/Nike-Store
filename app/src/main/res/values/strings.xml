@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ComposePlayGround</string>
+    <string name="hey_there">Join us and discover the ultimate fashion experience with our exclusive clothes.</string>
+    <string name="create_account">Create An Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_conditions">"By continuing, I agree to Nike’s Privacy Policy and Terms of Use."</string>
+    <string name="initialText">"By continuing, I agree to Nike’s "</string>
+    <string name="privacyPolicy">"Privacy Policy "</string>
+    <string name="andText">"and "</string>
+    <string name="termOfUse">"Term of Use"</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="go_to_login">Already have an Account? Login</string>
+    <string name="nike">Nike</string>
+    <string name="more_than_8_letters">Minimum of 8 letters</string>
+    <string name="Uppercase_lowercase_numbers">Uppercase,lowercase,numbers and (@ or $ or % or #)</string>
+    <string name="birthday">Birthday</string>
+    <string name="get_birthday_reward">Get a Nike Member Reward on your birthday <b>(Optional)</b></string>
+    <string name="signup_emails_for_updates">Sign up for emails to updates from Nike on products, offers and your Member benefits.</string>
+    <string name="username_conditions">Shouldn\'t contain special characters or spaces</string>
+    <string name="email_conditions">Email is not valid</string>
+    <string name="password_contains_email">Password shouldn\'t contain the part of the Email before @ Sign</string>
+</resources>
